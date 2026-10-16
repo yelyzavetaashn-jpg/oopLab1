@@ -1,0 +1,5 @@
+/Users/yelyzavetash/Desktop/oopLab1/build/CMakeFiles/oopLab1.dir
+/Users/yelyzavetash/Desktop/oopLab1/build/CMakeFiles/edit_cache.dir
+/Users/yelyzavetash/Desktop/oopLab1/build/CMakeFiles/rebuild_cache.dir
+/Users/yelyzavetash/Desktop/oopLab1/build/CMakeFiles/oopLab1_autogen_timestamp_deps.dir
+/Users/yelyzavetash/Desktop/oopLab1/build/CMakeFiles/oopLab1_autogen.dir
